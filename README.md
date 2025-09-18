@@ -1,2 +1,2 @@
 # Kaggle-Competetions
-Git Repo for kaggle Competetions attempted by me
+Git Repo for kaggle Competetions attempted by me.
